@@ -1,4 +1,4 @@
---1. Create tables
+##Create tables
 CREATE TABLE sales (
   "customer_id" VARCHAR(1),
   "order_date" DATE,
