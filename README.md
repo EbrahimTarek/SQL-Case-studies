@@ -29,7 +29,7 @@ I used __Microsoft SQL Server__ in writing SQL queries to solve these case studi
 
 
 ## Case Study [#1](https://8weeksqlchallenge.com/case-study-1/) : Danny's Diner
-> [My solutions](https://github.com/sharkawy98/sql-case-studies/tree/main/case_study_1)
+> [My solutions](https://github.com/EbrahimTarek/SQL-Case-studies/blob/main/Danny's%20Diner)
 ### ERD 
 ![image](https://user-images.githubusercontent.com/36075516/162094702-20266a74-afb8-483b-ba5a-37a676df2948.png)
 
